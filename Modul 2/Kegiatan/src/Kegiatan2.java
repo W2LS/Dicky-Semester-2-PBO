@@ -128,6 +128,9 @@ public class Kegiatan2 {
 
     public static void Lsiswa(String nim){
         Scanner in = new Scanner(System.in);
+        books.add(new Book("388c-e681-9152", "Memasak", "author", "Sejarah", 4));
+        books.add(new Book("ed90-be30-5cdb", "Makanan", "author", "Sejarah", 0));
+        books.add(new Book("d95e-0c4a-9523", "Minuman", "author", "Sejarah", 2));
 
 
 

@@ -1,0 +1,28 @@
+kendaraan.java
+- saya menambahkan public abstract void Brake(); pada line 10
+- saya menambahkan public abstract void Stop() ; pada line 13
+
+Pesawat.java
+- saya menambahkan methode Break yang di overridekan pada line 18 sampai 20
+- mengoverride Start(), Stop(), dan fly()
+
+Tank.java
+- saya membenahi kesalahan penulisan pada line 24 yang awalnya System.out.println("Tank menembak " + vehi) menjadi System.out.println("Tank menembak " + vehicle);
+- saya menambahkan kekurangan penulisan pada method Stop dan Break yaitu ";" pada akhir 
+
+Mobil.java
+- Tidak ada perubahan
+
+Motor.java
+- saya menambahkan method public void Start();
+
+File interface Flyable
+- saya - menghapus modifier private yang berada pada method fly()
+
+interface ShootAble
+
+- package yang sebelumnya public inter menjadi public interface 
+
+BY : DICKY AKBAR SYAH PUTRA 110
+
+  
